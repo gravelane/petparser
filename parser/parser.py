@@ -1,4 +1,4 @@
-
+# парсер новосибирских однокомнатных квартир по цене в порядке возрастания
 from bs4 import BeautifulSoup
 import requests
 import re
